@@ -19,5 +19,5 @@ if v:version > 702
   "开启持久性撤销
   set undofile
   "指定持久性撤消的临时存放目录
-  set undodir=~/.temp/undofile
+  set undodir=/home/bob/.tmp/undofile
 endif
