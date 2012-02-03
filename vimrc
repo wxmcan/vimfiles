@@ -15,6 +15,7 @@ set tags=/home/bob/.ctags
 
 set fencs=utf-8,gb18030,gbk,gb2312
 set encoding=utf-8
+colorscheme molokai
 
 
 if v:version > 702
